@@ -14,3 +14,4 @@
 
 * [分割](http://askubuntu.com/questions/56022/what-to-use-to-quickly-cut-audio-video)
 * [合并](https://trac.ffmpeg.org/wiki/Concatenate)
+* [缩放](https://trac.ffmpeg.org/wiki/Scaling%20(resizing)%20with%20ffmpeg)
