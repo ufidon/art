@@ -18,5 +18,5 @@
 
 
 ## 图像处理
-[命令行缩放,转换和修改图像](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/)
-[ImageMagick-图像魔术命令行](https://www.imagemagick.org/script/command-line-processing.php)
+* [命令行缩放,转换和修改图像](https://www.howtogeek.com/109369/how-to-quickly-resize-convert-modify-images-from-the-linux-terminal/)
+* [ImageMagick-图像魔术命令行](https://www.imagemagick.org/script/command-line-processing.php)
